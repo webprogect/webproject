@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+header {
+	padding: 10px;
+}
+
+nav {
+	/* text-align: left; */
+	float: left;
+	padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+	/* text-align: left; */
+	float: left;
+	padding: 20px;
+}
+
+section::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media ( max-width : 700px) {
+	nav, article {
+		width: 100%;
+		height: auto;
+	}
+}
