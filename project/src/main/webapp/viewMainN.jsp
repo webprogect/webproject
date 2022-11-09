@@ -68,6 +68,6 @@
 				</div>
 			</article>
 		</section>
-	</div>
+	</div> 
 </body>
 </html>
