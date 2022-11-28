@@ -1,4 +1,4 @@
-![](image_files/bg_img.jpg)
+![](image_files/5291450.jpg)
 
 # EMR system
 종이로 기록했던 의무기록차트를 전자화한 시스템으로  
@@ -15,7 +15,22 @@
 : 정진해 
 <br><br/>
 
-# 개발 도구
+# 개발 환경 
+º Oracle  
+º Apache Tomcat 9.0  
+º MVC 모델 1  
+º Eclipse  
+  -jsp  
+  - Mybaits
 <br/>
+
+# 개발 언어
+º java  
+º HTML5  
+º CSS  
+º Bootstrap  
+º Javascript  
+º jQuery  
+º OracleDB  
 
 
