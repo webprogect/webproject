@@ -20,7 +20,7 @@
 º Apache Tomcat 9.0  
 º MVC 모델 1  
 º Eclipse  
-  -jsp  
+  - jsp  
   - Mybaits
 <br/>
 
