@@ -1,5 +1,4 @@
-![](image/5291450.jpg hi)
-<img src="image/5291450.jpg" height="30%" />
+<img src="image/5291450.jpg" height="30px" />
 
 # EMR system
 종이로 기록했던 의무기록차트를 전자화한 시스템으로  
